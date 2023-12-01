@@ -1,0 +1,37 @@
+﻿Subject: Prioritizing Packets with QoS Markings (TOOL09T)
+
+
+Dear All,
+
+
+As per the request, I have implemented Quality of Service (QoS) markings on packets that represent scored services. The aim is to prioritize SMTP and POP3 email connections by using DSCP markings AF11 through AF13, with AF13 being the highest priority.
+
+
+In order to achieve this, I have created a table that provides a clear view of the services, the applications they represent, and the packet artifacts that are used to identify them.
+
+
+Service
+	Application
+	Artifact to ID Packet
+	SMTP
+	E-mail
+	IP Address, Transport Protocol (TCP), Port Number (25)
+
+
+	POP3
+	E-mail
+	Transport Protocol (TCP), Port Number (110)
+
+
+	
+
+
+
+Additionally, I have included a screenshot from the firewall device to validate the configuration settings that have been made to implement this.
+
+
+Please let me know if you have any questions or concerns regarding this implementation.
+
+
+Best regards,
+Team 9

@@ -1,0 +1,9 @@
+Host Name,Host IP Address,Protocol,Port Number,Application Description,Assessment
+(Internal) Windows Server 2016,172.20.240.10,TCP,443,Docker,OSI Layers
+(Internal) Debian,172.20.240.20,TCP/UDP,"53, 123","DNS, NTP",OSI Layers
+(User) Ubuntu Wrkst,Dynamic,TCP/UDP,443,,OSI Layers
+(User ) Windows Server 2012,172.20.242.200,TCP/UDP,67,"DNS, DHCP",OSI Layers
+Ubuntu Web,172.20.242.10,TCP,"443, 80","HTTPS, HTTP",OSI Layers
+(Public) Splunk,172.20.241.20 ,TCP/UDP,8008,Logs,OSI Layers
+(Public) CentOS,172.20.241.30,TCP,443,E-comm,OSI Layers
+(Public) Fedora,172.20.241.40,TCP,25,Email,OSI Layers

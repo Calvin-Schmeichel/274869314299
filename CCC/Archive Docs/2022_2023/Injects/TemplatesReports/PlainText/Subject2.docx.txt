@@ -1,0 +1,54 @@
+﻿Subject: Evaluation of Server Environment with netstat tool
+
+
+Dear Team,
+
+
+I have performed an evaluation of the organization's server environment using the netstat tool. The purpose of this evaluation was to identify the processes that are listening on network connections and to determine if they are using expected ports and protocols.
+
+
+Below is a summary of the results for each of the servers:
+
+
+2016 Docker/Remote Server
+Issues were identified on the 2016 Docker/Remote server. Some processes were not listening on the expected ports and/or using the expected protocols (TCP/UDP). Further investigation is needed to determine the cause of these issues and to implement appropriate measures to mitigate them.
+
+
+Debian 8.5 DNS/NTP Server
+Issues were identified on the Debian 8.5 DNS/NTP server. Some processes were not listening on the expected ports and/or using the expected protocols. Further investigation is needed to determine the cause of these issues and to implement appropriate measures to mitigate them.
+
+
+Ubuntu 14 Web Server
+The Ubuntu 14 Web server was found to be in compliance with the expected network configurations. All processes were listening on the expected ports using the expected protocols.
+
+
+2012 AD/DNS/DHCP Server
+The 2012 AD/DNS/DHCP server was found to be in compliance with the expected network configurations. All processes were listening on the expected ports using the expected protocols.
+
+
+Ubuntu Wkst Server
+The Ubuntu Wkst server was found to be in compliance with the expected network configurations. All processes were listening on the expected ports using the expected protocols.
+
+
+Splunk Server
+The Splunk server was found to be in compliance with the expected network configurations. All processes were listening on the expected ports using the expected protocols.
+
+
+CentOS 7 E-comm Server
+The CentOS 7 E-comm server was found to be in compliance with the expected network configurations. All processes were listening on the expected ports using the expected protocols.
+
+
+Fedora 21 Webmail/WebApps Server
+Issues were identified on the Fedora 21 Webmail/WebApps server. Some processes were not listening on the expected ports and/or using the expected protocols. Further investigation is needed to determine the cause of these issues and to implement appropriate measures to mitigate them.
+
+
+In conclusion, while most of the servers were found to be in compliance with the expected network configurations, issues were identified on the 2016 Docker/Remote, Debian 8.5 DNS/NTP, and Fedora 21 Webmail/WebApps servers. The next steps are to conduct a thorough investigation of these issues and to implement appropriate measures to mitigate them.
+
+
+Please let me know if there are any questions or if additional information is needed.
+
+
+Best regards,
+
+
+Group 9

@@ -1,0 +1,10 @@
+PAN8_210_Master_Client.ova: https://mnscu-my.sharepoint.com/:u:/g/personal/cw3554fl_minnstate_edu/EaUAQEnqQOhPrILkm4ES8IIBM7RQz8pky-F3BknnnxO7eA?e=y7okVy
+
+
+PAN8_210_Master_DMZ.ova: https://mnscu-my.sharepoint.com/:u:/g/personal/cw3554fl_minnstate_edu/ET0j0bq9mo9ClrzT4FgsWnABqNmlddRiZAcUElpMEIXI6w
+
+
+PAN8_210_Master_FW.ova: https://mnscu-my.sharepoint.com/:u:/g/personal/cw3554fl_minnstate_edu/EeC6nRkYJTxOkSbh1JB2rX8BDfzaHHGlk36FUmAvL-X6ww?e=IbPgRq
+
+
+PAN8_210_Master_VR.ova: https://mnscu-my.sharepoint.com/:u:/g/personal/cw3554fl_minnstate_edu/EcQzCY4lhChPvacmVo3lJA8BPlGYVOaVb1wL9_Ocz8S6Vw?e=PLporC

@@ -1,0 +1,6 @@
+﻿Dear Auditors,
+Please find attached the document detailing the services found on each server during our recent audit. The information has been presented in tabular form, with each row representing a discovered server and columns describing the service name, protocol (TCP, UDP or both) and port number, and whether the service was expected to be found. Additionally, a final column provides notes on any remediation needed.
+The tool used for the service discovery was Nmap. Nmap is a popular open-source network exploration and security auditing tool. It provides a comprehensive list of the services running on a server, along with the associated protocols and port numbers.
+Attached to this memo is a screenshot of Nmap in action, demonstrating its ability to discover services on a server. The screenshot shows Nmap's graphical interface, with the services listed in the table on the right-hand side.
+Please let us know if there is anything else we can assist with.
+Best regards, Team 9
